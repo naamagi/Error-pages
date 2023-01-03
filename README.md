@@ -5,7 +5,8 @@
 Two error pages using float and semantic tags. 
 
 The error pages are mocks of Pixar and Dropbox error pages.
----
+
+
 
 ## Contributors
 
