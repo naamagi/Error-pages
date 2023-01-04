@@ -2,9 +2,7 @@
 
 **Version 1.0.0**
 
-Two error pages using float and semantic tags. 
-
-The error pages are mocks of Pixar and Dropbox error pages.
+Two error pages mocks of Pixar and Dropbox using float and semantic tags. 
 
 ## Demo
 
